@@ -1,2 +1,2 @@
 # yacup2020
-Tasks for https://yandex.ru/cup/
+My solutions for https://yandex.ru/cup/
